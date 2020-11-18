@@ -1,0 +1,21 @@
+{
+  "name": "todo-mvc-vue",
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build"
+  },
+  "dependencies": {
+    "vue": "^3.0.2"
+  },
+  "devDependencies": {
+    "@vue/compiler-sfc": "^3.0.0-rc.1",
+    "@vue/eslint-config-prettier": "^6.0.0",
+    "babel-eslint": "^10.1.0",
+    "eslint": "^7.13.0",
+    "eslint-plugin-prettier": "^3.1.4",
+    "eslint-plugin-vue": "^7.1.0",
+    "prettier": "^2.1.2",
+    "vite": "^1.0.0-rc.1"
+  }
+}
